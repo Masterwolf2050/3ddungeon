@@ -1,1 +1,2 @@
 This is the repo  for all to help out printing a dungeon. I will be posting out the stl files here along with the instructions on printing. I will also include the list of what needs to be printed.
+Updates should be posted to the updated branch and I will merge them to the main
